@@ -1,0 +1,11 @@
+What is .NET?
+Its a platform for developing Applications of various kinds like Console, Windows, Web, Mobile, Services and micro controller level Applications.
+Initially, .NET Apps used to run only on Windows OS, later it was available for other OS like Unix, Mac machines also..
+.NET contains 3 parts: Execution Environment, Framework Class Libraries(Ready to use classes and components(UI) which are used to develop apps and tools to build applications.
+ 
+What is C#?
+C# is a programming language like C, C++, Javascript which is specifically created for .NET Application development. C# was designed by a programmer Anders Heigsberg working in MS. He took the best features of C++, Java and VB to create a new programming language which is more powerfull and specifically for .NET development. 
+
+What is Visual Studio?
+IDE for developing .NET Apps using variety of languages like VB, C#, C++, Typescript and many more.
+ 
