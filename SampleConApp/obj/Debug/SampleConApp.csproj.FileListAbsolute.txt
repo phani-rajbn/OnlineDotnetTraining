@@ -1,0 +1,6 @@
+E:\Projects\DotnetApps\SampleConApp\bin\Debug\SampleConApp.exe.config
+E:\Projects\DotnetApps\SampleConApp\bin\Debug\SampleConApp.exe
+E:\Projects\DotnetApps\SampleConApp\bin\Debug\SampleConApp.pdb
+E:\Projects\DotnetApps\SampleConApp\obj\Debug\SampleConApp.csprojResolveAssemblyReference.cache
+E:\Projects\DotnetApps\SampleConApp\obj\Debug\SampleConApp.exe
+E:\Projects\DotnetApps\SampleConApp\obj\Debug\SampleConApp.pdb
